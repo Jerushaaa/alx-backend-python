@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 '''
-	The basics of async.
-	Coroutine that accepts an inetger argument in an asynchronous manner
+    The basics of async.
 '''
 
 import asyncio
